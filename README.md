@@ -1,9 +1,7 @@
-## Hi there. I'm Piyush 👋
+👋 Hi, I’m Piyush
 
-I’m a a recent BSc (Hons) Computer Science graduate at Lancaster University with hands-on experience in front-end development (React, Next.js, React Native) and a growing interest in DevOps and AWS cloud deployment statergies. I love exploring new technologies, building user-friendly and scalable applications, and solving tricky coding puzzles. When I’m not developing, I enjoy diving into documentation or experimenting with open-source software.
+I’m a software engineer who enjoys building well-structured, scalable applications and understanding how systems work end to end. I primarily work with React, Next.js, and TypeScript, but I’m equally comfortable diving into backend services, databases, and cloud infrastructure when the problem demands it.
 
-🔭 Currently working on personal scripts, small tools, and Next.js apps.  
-🌱 Learning more about AWS services, full-stack development, and advanced DevOps while refining my front-end skills and exploring automated testing (Jest).  
-⚡ Fun fact: I’m always up for a good puzzle—technical or otherwise!
+My work spans frontend engineering, API design, AI-assisted features, and cloud deployment. I’ve built data-driven dashboards, AI-powered recommendation tools, CV parsing and search systems, and production-grade web applications with a strong focus on maintainability, performance, and clean architecture.
 
-Let’s connect and collaborate on fun projects!
+This GitHub is where I experiment, learn, and refine—whether that’s exploring modern frontend patterns, improving CI/CD workflows, integrating cloud services, or building small tools that solve real problems.
